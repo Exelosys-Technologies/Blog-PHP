@@ -8,8 +8,8 @@ Admin Features
     Delete Post 
     View List of Post
     Add Image to the Post
-    Edit/Replace Image of the Post(soon Will be added)
-    Delete Image of the Post(soon Will be added)
+    Edit/Replace Image of the Post
+    Delete Image of the Post
 
 User Features :
 
